@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Problem3</string>
+    <string name="text2_quarter1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="text2_quarter2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="text2_quarter3">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="text2_quater4">A layout composable that places its children in a vertical sequence.</string>
+</resources>
